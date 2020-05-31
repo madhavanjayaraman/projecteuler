@@ -1,18 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd829ce7-847a-4106-b742-d007b2ffde17" name="Default Changelist" comment="" />
+    <list default="true" id="907d1e78-00cd-437d-920e-d22d77f56140" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/abstractfactorypattern.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/CircularPrimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/CollatzConjucture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/CountingSundays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/DigitsofFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/DistinctPowers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/DistinctPrimeFactors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/EvenFibonacciNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/FactorialNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/HighestDivisibleTriangular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/HighestDivisibleTriangularNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/JavaNumberWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargestMultiplySeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargestPalindromNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargestPrimeFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargestProductGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/LargestProductInSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/MultiplesOfThreeAndFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/NamesCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/NthPrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/PandigitalPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/PentagonNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/PowerDigitSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/PythogoronTriplet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/SelfPowers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/SmallestMultiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/SumSquareDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/SummationOfPrimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/ThousandFibonacciNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/TruncatablePrimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/ZalandoMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/ZalandoTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/madhavan/projecteuler/ZalondoMock.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1cf1yE2zJmmc8wdSZ257yUJQVGS" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cf59uNcxuXYbQyCDPacv3M6z9M" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/kgs/IdeaProjects/srd" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
@@ -32,16 +78,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fd829ce7-847a-4106-b742-d007b2ffde17" name="Default Changelist" comment="" />
-      <created>1590905085801</created>
+      <changelist id="907d1e78-00cd-437d-920e-d22d77f56140" name="Default Changelist" comment="" />
+      <created>1590906658100</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590905085801</updated>
-      <workItem from="1590905089367" duration="295000" />
+      <updated>1590906658100</updated>
+      <workItem from="1590906661360" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
