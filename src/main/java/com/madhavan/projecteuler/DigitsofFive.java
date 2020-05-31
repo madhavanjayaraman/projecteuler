@@ -1,4 +1,4 @@
-package main.java.projecteuler;
+package com.madhavan.projecteuler;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

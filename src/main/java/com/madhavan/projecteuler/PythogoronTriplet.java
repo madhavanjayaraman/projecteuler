@@ -1,4 +1,4 @@
-package main.java.projecteuler;
+package com.madhavan.projecteuler;
 
 public class PythogoronTriplet {
 
